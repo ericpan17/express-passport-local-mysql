@@ -1,5 +1,5 @@
 This example demonstrates how to use [Express](http://expressjs.com/) and
-[Passport](http://passportjs.org/) and mysql to authenticate users using a username and
+[Passport](http://passportjs.org/) and mysql and twig as template to authenticate users using a username and
 password with [form-based authentication](https://en.wikipedia.org/wiki/HTTP%2BHTML_form-based_authentication).
 Use this example as a starting point for your own web applications.
 
